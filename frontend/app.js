@@ -1,5 +1,5 @@
 
-const API = 'http://127.0.0.1:5000/api/items';
+const API = 'https://liamba-mufaya-node-app-mysql.onrender.com/api/items';
 
 const tbody = document.querySelector('#itemsTbl tbody');
 
